@@ -21,7 +21,7 @@ J3. **Yujiao Cheng**, Liting Sun, Changliu Liu, and Masayoshi Tomizuka. "Towards
 
 ## Refereed Conference Proceedings 
 
-C4. **Yujiao Cheng**\*, Weiye Zhao*, Changliu Liu, and Masayoshi Tomizuka. "Human motion prediction using semi-adaptable neural networks." In 2019 American Control Conference (**ACC**), pp. 4884-4890. IEEE, 2019.
+C4. **Yujiao Cheng**\*, Weiye Zhao\*, Changliu Liu, and Masayoshi Tomizuka. "Human motion prediction using semi-adaptable neural networks." In 2019 American Control Conference (**ACC**), pp. 4884-4890. IEEE, 2019.
 
 C3. Landi, Chiara Talignani, **Yujiao Cheng**, Federica Ferraguti, Marcello Bonfè, Cristian Secchi, and Masayoshi Tomizuka. "Prediction of human arm target for robot reaching movements." In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), pp. 5950-5957. IEEE, 2019.
 
