@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Changhao Wang"
+title                    : "Yujiao Cheng"
 title_separator          : "-"
-name                     : &name "Changhao Wang"
-description              : &description "Changhao Wang personal website"
-url                      : https://changhaowang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yujiao Cheng"
+description              : &description "Yujiao Cheng personal website"
+url                      : https://YujiaoCheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "changhaowang/changhaowang.github.io"
+repository               : "YujiaoCheng/yujiaoCheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changhao Wang<br>王昌浩"
-  avatar           : "Wang-Changhao.JPG"
-  bio              : "Ph.D. student<br> Major: Controls<br> UC Berkeley"
+  name             : "yujiao Cheng<br>程玉娇"
+  avatar           : "Cheng-Yujiao.JPG"
+  bio              : "Ph.D. Candidate<br> Major: Controls<br> UC Berkeley"
   location         : "Berkeley, CA"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "changhaowang@berkeley.edu"
+  email            : "yujiaocheng@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,12 +96,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "changhaowang"
+  github           : "YujiaoCheng"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "changhaowang0708"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
