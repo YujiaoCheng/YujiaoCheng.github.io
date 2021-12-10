@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="center">
-<img src="/images/robotSystem.pdf" width="700">
+<img src="/images/robotSystem.png" width="700">
 </p>
 
 
