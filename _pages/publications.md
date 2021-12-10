@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Journal Articles
 
 J1. **Yujiao Cheng**, and Masayoshi Tomizuka. " Long-Term Trajectory Prediction of the Human Hand and Duration Estimation of the Human Action." IEEE Robotics and Automation Letters 7 (**RA-L**), no.1 (2021): 247-254.
@@ -33,6 +37,5 @@ C1. Tan, Xiaobin, Zhifan Zhao, **Yujiao Cheng**, and Junxiang Su. "Flow-based ND
 ## Preprints 
 
 Changliu Liu\*, Te Tang\*, Hsien-Chung Lin\*, **Yujiao Cheng**\* and Masayoshi Tomizuka. "Serocs: Safe and efficient robot collaborative systems for next generation intelligent industrial co-robots." arXiv preprint arXiv:1809.08215 (2018).
-
 
 

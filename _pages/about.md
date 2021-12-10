@@ -1,8 +1,7 @@
 ---
 permalink: /
-title: "About Me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
-description: "I am Yujiao Cheng, a Ph.D. Candidate at UC Berkeley. I obtained my bachelor degree at the University of Science and Technology of China (USTC) in 2016."
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,5 +18,6 @@ My research interest lies in the interdisciplinary combination of robotics, opti
 2017 Department Award, UC Berkeley                                                   
 2015 Guo Moruo Scholarship (highest honor for undergraduates in USTC)                           
 2014 National Scholarship, Ministry of Education of P. R. China                                    
+
 
 

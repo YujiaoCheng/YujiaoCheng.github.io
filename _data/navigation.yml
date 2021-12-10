@@ -1,31 +1,15 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "home"
     url: /
+    
+  - title: "Research"
+    url: /Research/
 
-  - title: "Research" 
-    url: /research/
-
-  - title: "Publicaitons"
+  - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/ 
-
-  # - title: "Publications"
-  #   url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/       
+    url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+ 
