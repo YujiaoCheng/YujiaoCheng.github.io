@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
@@ -11,6 +11,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Teaching Experience
 
 Undergraduate Student Instructor, Linear Circuit, Instructor: Wei Lu, 2014-2015 

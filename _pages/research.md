@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Selected Research Projects
 
 <p align="center">
 <img src="/images/robotSystem.pdf" width="700">
