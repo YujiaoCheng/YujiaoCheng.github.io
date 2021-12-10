@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 <p align="center">
-<img src="/images/robotSystem.png" width="700">
+<img src="/images/robotSystem.png" width="500">
 </p>
 
 
 ## Human Plan Recognition via Hierarchical Modeling \[[pdf](https://ieeexplore.ieee.org/abstract/document/8990024)\] \[[video](https://www.youtube.com/watch?v=4DlgnFjfwkY)\] 
 <p align="center">
-<img src="/images/plan.png" width="500">
+<img src="/images/plan.png" width="700">
 </p>
  To efficiently finish tasks in human-robot collaboration systems, the robots need to recognize human's intentions for a plan, i.e., the sequence of actions to finish the tasks. However, due to the stochastic and time-varying nature of human collaborators, it is quite challenging for the robot to efficiently and accurately identify such task plans. To address this challenge, we propose a hirarchical modeling method by explicitly leveraging the hierarchical relationship between plans and trajectories, which is data-efficient and intepretable. Physical experiments were conducted on an industrial robot to verify the proposed framework. The results show that the proposed framework could accurately recognize the human workers' plans and thus significantly improve the time efficiency of the human-robot collaboration.
 
