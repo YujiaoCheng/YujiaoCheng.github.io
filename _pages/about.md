@@ -1,12 +1,14 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About me
 
 I am a Ph.D. Candidate at [UC Berkeley](https://www.berkeley.edu) advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka). Prior to this, I obtained my bachelor degree from the University of Science and Technology of China (USTC). During my study in Berkeley, I have also spent time in [FANUC Coporation](https://www.fanuc.co.jp/) and FANUC Advanced Research Lab as an intern. 
 
