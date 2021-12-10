@@ -17,11 +17,11 @@ author_profile: true
 
 ## Journal Articles
 
-**J1.** **Yujiao Cheng**, and Masayoshi Tomizuka. " Long-Term Trajectory Prediction of the Human Hand and Duration Estimation of the Human Action." IEEE Robotics and Automation Letters 7 (**RA-L**), no.1 (2021): 247-254.
+**J3.** **Yujiao Cheng**, and Masayoshi Tomizuka. " Long-Term Trajectory Prediction of the Human Hand and Duration Estimation of the Human Action." IEEE Robotics and Automation Letters 7 (**RA-L**), no.1 (2021): 247-254.
 
 **J2.** **Yujiao Cheng**, Liting Sun, and Masayoshi Tomizuka. "Human-Aware Robot Task Planning Based on a Hierarchical Task Model." IEEE Robotics and Automation Letters 6 (**RA-L**), no. 2 (2021): 1136-1143.
 
-**J3.** **Yujiao Cheng**, Liting Sun, Changliu Liu, and Masayoshi Tomizuka. "Towards efficient human-robot collaboration with robust plan recognition and trajectory prediction." IEEE Robotics and Automation Letters (**RA-L**), no. 2 (2020): 2602-2609.
+**J1.** **Yujiao Cheng**, Liting Sun, Changliu Liu, and Masayoshi Tomizuka. "Towards efficient human-robot collaboration with robust plan recognition and trajectory prediction." IEEE Robotics and Automation Letters (**RA-L**), no. 2 (2020): 2602-2609.
 
 ## Refereed Conference Proceedings 
 

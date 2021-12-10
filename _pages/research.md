@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Research Projects"
+title: ""
 permalink: /research/
 author_profile: true
 ---
@@ -9,6 +9,7 @@ author_profile: true
 <img src="/images/robotSystem.png" width="500">
 </p>
 
+Selected Research Projects
 
 ## Human Plan Recognition via Hierarchical Modeling \[[pdf](https://ieeexplore.ieee.org/abstract/document/8990024)\] \[[video](https://www.youtube.com/watch?v=4DlgnFjfwkY)\] 
 <p align="center">
