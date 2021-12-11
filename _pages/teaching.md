@@ -11,4 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Undergraduate Student Instructor, Linear Circuit, Instructor: Wei Lu, 2014-2015 
+Undergraduate Student Instructor, Linear Circuit, Instructor: Wei Lu, USTC, 2014-2015.
+
+Graduate Student Instructor, ME231B Experimental Advanced Control Design II, Instructor: Prof. Mark Mueller, UC Berkeley, Spring 2022.
