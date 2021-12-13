@@ -14,6 +14,8 @@ I am a Ph.D. Candidate at [UC Berkeley](https://www.berkeley.edu) advised by [Pr
 
 My research interest lies in the interdisciplinary combination of robotics, optimization, learning and control theories with applications to **human-robot collaboration**. I am focused on developing algorithms for collaborative robots to perceive and anticipate humans, and hereinafter make human-aware task planning and motion planning. 
 
+Here is my [Curriculum Vitae](/files/Resume.pdf) (Updated in Dec. 2021).
+
 ## Awards
 
 2016-2018 Berkeley Fellowship, UC Berkeley                                           
