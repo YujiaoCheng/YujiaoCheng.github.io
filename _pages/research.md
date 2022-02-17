@@ -33,6 +33,8 @@ The effectiveness of the proposed framework is supported by experimental validat
 ## Human-Aware Task Planning \[[pdf](https://ieeexplore.ieee.org/abstract/document/9345470)\]\[[video](https://www.youtube.com/watch?v=wfle8Ry7z54)\]
 <p align="center">
 <img src="/images/taskPlanning.png" width="300">
+</p>
+<p align="center">
 <img src="/images/system.png" width="500">
 </p>
 When robots work with humans for collaborative task, they need to plan their actions while taking humans' actions into account. However, due to the complexity of the tasks and stochastic nature of human collaborators, it is quite challenging for the robot to efficiently collaborate with the humans. To address this challenge, in this letter, we first propose an algorithm to automatically construct a hierarchical task model from single-agent demonstrations. The hierarchical task model explicitly captures the sequential and parallel relationships of the task at all levels of abstraction. We then propose an optimization-based planner, which exploits the parallel relationships and prioritizes actions that are parallel to the humans' actions. In such a way, potential spatial interfaces can be avoided, task completion time can be reduced, and human's satisfaction level can be improved. We conducted simulations of a robot arm collaborating with a human for several collaborative tasks. The comparison results with several baselines proved that our proposed planner is better in terms of efficiency, safety and human satisfaction.
