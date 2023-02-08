@@ -25,9 +25,7 @@ author_profile: true
 
 ## Refereed Conference Proceedings 
 
-**C6.** Braun, Mitchell, **Yujiao Cheng**, and Masayoshi Tomizuka. "Human-Aware Robot Task Planning with Robot Execution Time Estimation." IFAC-PapersOnLine 55, no. 41 (2022): 181-186.
-
-**C5.** Leu, Jessica,  **Yujiao Cheng**, Changliu Liu, and Masayoshi Tomizuka. "Robust Task Planning for Assembly Lines with Human-Robot Collaboration." arXiv preprint arXiv:2204.07936 (2022).
+**C5.** Braun, Mitchell, **Yujiao Cheng**, and Masayoshi Tomizuka. "Human-Aware Robot Task Planning with Robot Execution Time Estimation." IFAC-PapersOnLine 55, no. 41 (2022): 181-186.
 
 **C4.** **Yujiao Cheng**\*, Weiye Zhao\*, Changliu Liu, and Masayoshi Tomizuka. "Human motion prediction using semi-adaptable neural networks." In 2019 American Control Conference (**ACC**), pp. 4884-4890. IEEE, 2019.
 
@@ -39,6 +37,8 @@ author_profile: true
 
 
 ## Preprints 
+
+Leu, Jessica,  **Yujiao Cheng**, Changliu Liu, and Masayoshi Tomizuka. "Robust Task Planning for Assembly Lines with Human-Robot Collaboration." arXiv preprint arXiv:2204.07936 (2022).
 
 Changliu Liu\*, Te Tang\*, Hsien-Chung Lin\*, **Yujiao Cheng**\* and Masayoshi Tomizuka. "Serocs: Safe and efficient robot collaborative systems for next generation intelligent industrial co-robots." arXiv preprint arXiv:1809.08215 (2018).
 
