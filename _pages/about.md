@@ -21,7 +21,8 @@ My research interest lies in the interdisciplinary combination of robotics, opti
 2016-2018 Berkeley Fellowship, UC Berkeley                                           
 2017 Department Award, UC Berkeley                                                   
 2015 Guo Moruo Scholarship (highest honor for undergraduates in USTC)                           
-2014 National Scholarship, Ministry of Education of P. R. China                                    
+2014 National Scholarship, Ministry of Education of P. R. China        
+                            
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D4fS8aM4REBFt_jLcFX9Sa3SJzL2ydWA9hUkKtAC4qE&cl=ffffff&w=a"></script> 
+
 
