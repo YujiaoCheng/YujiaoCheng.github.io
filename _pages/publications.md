@@ -42,4 +42,11 @@ author_profile: true
 
 Changliu Liu\*, Te Tang\*, Hsien-Chung Lin\*, **Yujiao Cheng**\* and Masayoshi Tomizuka. "Serocs: Safe and efficient robot collaborative systems for next generation intelligent industrial co-robots." arXiv preprint arXiv:1809.08215 (2018).
 
+## Patents
+**P5.** "Enhance anomaly score using a general image segmentation model", 2025 (filed)
+**P4.** "Autoregressive model fitting for time series anomaly detection", 2024 (filed)
+**P3.** "GMM for time series anomaly detection", 2024(filed)
+**P2.** "Feature weighting for kNN-based anomaly detection", 2023 (filed)
+**P1.** "Online adaptation for kNN-based anomaly detection", 2023 (filed)
+
 
