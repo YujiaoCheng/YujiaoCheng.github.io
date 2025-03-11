@@ -4,7 +4,10 @@ main:
     url: /
     
   - title: "Research"
-    url: /research/
+    - title: "robotics"
+      url: /research_robotics
+    - title: "defect inspection"
+      url: /research_inspection
 
   - title: "Publications"
     url: /publications/
