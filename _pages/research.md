@@ -60,6 +60,34 @@ author_profile: true
 
     <div class="media">
       <!-- Video or image -->
+      <iframe src=(https://www.youtube.com/embed/wfle8Ry7z54)
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="media">
+      <!-- Image or another video -->
+      <img src="/images/system.png"  alt="demo">
+    </div>
+
+  </div>
+
+  <div class="description">
+    <h3>Project Title</h3>
+    <p>
+      When robots work with humans for collaborative task, they need to plan their actions while taking humans' actions into account. However, due to the complexity of the tasks and stochastic nature of human collaborators, it is quite challenging for the robot to efficiently collaborate with the humans. To address this challenge, in this letter, we first propose an algorithm to automatically construct a hierarchical task model from single-agent demonstrations. The hierarchical task model explicitly captures the sequential and parallel relationships of the task at all levels of abstraction. We then propose an optimization-based planner, which exploits the parallel relationships and prioritizes actions that are parallel to the humans' actions. In such a way, potential spatial interfaces can be avoided, task completion time can be reduced, and human's satisfaction level can be improved. We conducted simulations of a robot arm collaborating with a human for several collaborative tasks. The comparison results with several baselines proved that our proposed planner is better in terms of efficiency, safety and human satisfaction.
+    </p>
+  </div>
+
+</div>
+
+<div class="project-row-two">
+
+  <div class="media-group">
+
+    <div class="media">
+      <!-- Video or image -->
       <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
         frameborder="0"
         allowfullscreen>
