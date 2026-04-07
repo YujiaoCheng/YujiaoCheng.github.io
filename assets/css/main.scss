@@ -123,12 +123,60 @@
 
 /* mobile */
 @media (max-width: 768px) {
-  .project-row {
+  .project-row-2 {
     flex-direction: column;
   }
 
   .media-group {
     width: 100%;
+  }
+
+  .media {
+    width: 100%;
+  }
+}
+
+/* === Stacked media + text layout === */
+
+.project-row {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+/* LEFT: vertical stack */
+.media-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: none;
+}
+
+/* each media block */
+.media {
+  width: 320px;              /* 🔥 consistent width */
+  aspect-ratio: 16 / 9;
+}
+
+/* unify video + image */
+.media iframe,
+.media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+/* RIGHT: text */
+.description {
+  flex: 1;
+}
+
+/* mobile */
+@media (max-width: 768px) {
+  .project-row {
+    flex-direction: column;
   }
 
   .media {
