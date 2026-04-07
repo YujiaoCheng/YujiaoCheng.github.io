@@ -19,7 +19,7 @@ allowfullscreen>
 <div class="video-text-container">
   
   <div class="video">
-    <iframe width="100%" height="5"
+    <iframe width="50%" height=""
       src="https://www.youtube.com/embed/4DlgnFjfwkY?start=11"
       frameborder="0"
       allowfullscreen>
