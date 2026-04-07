@@ -31,7 +31,7 @@ author_profile: true
   <div class="description">
     <h3>Project Title</h3>
     <p>
-      plan recognition
+      plan recognition for cobots
     </p>
   </div>
 
