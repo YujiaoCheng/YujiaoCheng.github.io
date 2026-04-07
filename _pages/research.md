@@ -16,21 +16,26 @@ frameborder="0"
 allowfullscreen>
 </iframe> -->
 
-<div class="video-text-container">
-  
-  <div class="video">
-    <iframe width="50" height="25"
-      src="https://www.youtube.com/embed/4DlgnFjfwkY?start=11"
+</div>
+
+<div class="project-row">
+
+  <div class="media">
+    <!-- OPTION A: YouTube video -->
+    <iframe src="https://www.youtube.com/embed/4DlgnFjfwkY?start=11"
       frameborder="0"
       allowfullscreen>
     </iframe>
+
+    <!-- OPTION B: Image (use this instead if needed) -->
+    <!-- <img src="/assets/images/demo.png" alt="demo"> -->
   </div>
 
-  <div class="text">
-    <h3>Robot Assembly Demo</h3>
+  <div class="description">
+    <h3>Project Title</h3>
     <p>
-      This project demonstrates our VLM-based adaptive task planning system.
-      The robot can dynamically adjust actions based on visual feedback.
+      This project explores adaptive task planning using vision-language models.
+      The system can dynamically adjust to new environments.
     </p>
   </div>
 
