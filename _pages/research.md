@@ -9,7 +9,33 @@ author_profile: true
 <img src="/images/robotSystem.png" width="500">
 </p>
 
+<hr class="divider">
 
+<div class="project-row">
+
+  <div class="media-stack">
+
+    <div class="media">
+      <iframe src="https://www.youtube.com/embed/4DlgnFjfwkY?start=15"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="media">
+      <img src="/images/plan.png"  alt="demo">
+    </div>
+
+  </div>
+
+  <div class="description">
+    <h3>Project Title</h3>
+    <p>
+      plan recognition
+    </p>
+  </div>
+
+</div>
 
 <hr class="divider">
 
@@ -39,6 +65,7 @@ author_profile: true
 
 </div>
 
+<hr class="divider">
 
 ## Short-Term Human Trajectory Prediction Using Semi-adaptable Neural Network \[[pdf](https://ieeexplore.ieee.org/abstract/document/8814980)\]\[[video](https://www.youtube.com/watch?v=2dqS9r0xBGo)\]
 <p align="center">
