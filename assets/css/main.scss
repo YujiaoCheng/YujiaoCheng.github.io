@@ -43,98 +43,98 @@
 
 /* === YOUR CUSTOM STYLES BELOW === */
 
-.project-row {
-  display: flex;
-  gap: 24px;
-  align-items: flex-start;
-  margin-bottom: 40px;
-}
+// .project-row {
+//   display: flex;
+//   gap: 24px;
+//   align-items: flex-start;
+//   margin-bottom: 40px;
+// }
 
-.media {
-  flex: none;
-  width: 320px;
-  aspect-ratio: 16 / 9;
-}
+// .media {
+//   flex: none;
+//   width: 320px;
+//   aspect-ratio: 16 / 9;
+// }
 
-.media iframe,
-.media img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 6px;
-}
+// .media iframe,
+// .media img {
+//   width: 100%;
+//   height: 100%;
+//   object-fit: cover;
+//   border-radius: 6px;
+// }
 
-.description {
-  flex: 1;
-}
+// .description {
+//   flex: 1;
+// }
 
-@media (max-width: 768px) {
-  .project-row {
-    flex-direction: column;
-  }
+// @media (max-width: 768px) {
+//   .project-row {
+//     flex-direction: column;
+//   }
 
-  .media {
-    width: 100%;
-  }
-}
+//   .media {
+//     width: 100%;
+//   }
+// }
 
 
 /* === Two media + text layout === */
 
-.project-row-two {
-  display: flex;
-  gap: 24px;
-  align-items: flex-start;
-  margin-bottom: 40px;
-}
+// .project-row-two {
+//   display: flex;
+//   gap: 24px;
+//   align-items: flex-start;
+//   margin-bottom: 40px;
+// }
 
-/* LEFT: two media side-by-side */
-.media-group {
-  display: flex;
-  gap: 12px;
-  flex-wrap: nowrap;      /* 🔥 prevents wrapping */
-  flex: none;
-}
+// /* LEFT: two media side-by-side */
+// .media-group {
+//   display: flex;
+//   gap: 12px;
+//   flex-wrap: nowrap;      /* 🔥 prevents wrapping */
+//   flex: none;
+// }
 
-.media {
-  flex: 0 0 160px;        /* 🔥 fixed width, no shrinking */
-  aspect-ratio: 16 / 9;
-}
+// .media {
+//   flex: 0 0 160px;        /* 🔥 fixed width, no shrinking */
+//   aspect-ratio: 16 / 9;
+// }
 
-/* each media block */
-.media {
-  width: 300px;              /* 🔥 controls size */
-  aspect-ratio: 16 / 9;
-}
+// /* each media block */
+// .media {
+//   width: 300px;              /* 🔥 controls size */
+//   aspect-ratio: 16 / 9;
+// }
 
-/* unify video + image */
-.media iframe,
-.media img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 6px;
-}
+// /* unify video + image */
+// .media iframe,
+// .media img {
+//   width: 100%;
+//   height: 100%;
+//   object-fit: cover;
+//   border-radius: 6px;
+// }
 
-/* RIGHT: text */
-.description {
-  flex: 1;
-}
+// /* RIGHT: text */
+// .description {
+//   flex: 1;
+// }
 
-/* mobile */
-@media (max-width: 768px) {
-  .project-row-2 {
-    flex-direction: column;
-  }
+// /* mobile */
+// @media (max-width: 768px) {
+//   .project-row {
+//     flex-direction: column;
+//   }
 
-  .media-group {
-    width: 100%;
-  }
+//   .media-group {
+//     width: 100%;
+//   }
 
-  .media {
-    width: 100%;
-  }
-}
+//   .media {
+//     width: 100%;
+//   }
+// }
 
 /* === Stacked media + text layout === */
 

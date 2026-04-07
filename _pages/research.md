@@ -10,64 +10,20 @@ author_profile: true
 </p>
 
 
-<div class="project-row">
 
-  <div class="media">
-    <!-- OPTION A: YouTube video -->
-    <iframe src="https://www.youtube.com/embed/4DlgnFjfwkY?start=11"
-      frameborder="0"
-      allowfullscreen>
-    </iframe>
-
-    <!-- OPTION B: Image (use this instead if needed) -->
-    <!-- <img src="/assets/images/demo.png" alt="demo"> -->
-  </div>
-
-  <div class="description">
-    <h3>High-level human-aware robot policy</h3>
-    <p>
-      This project explores collaborative robot's high-level policy. Due to the stochastic and time-varying nature of human collaborators, the robot needs to efficiently and accurately identify human intention. A hierachical modeling method is proposed to leverage the hierarchical relationship between subtasks and trajectories, which is data-efficient and intepretable. 
-    </p>
-  </div>
-
-</div>
 
 <div class="project-row">
 
-  <div class="media">
-    <!-- OPTION A: YouTube video -->
-    <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
-      frameborder="0"
-      allowfullscreen>
-    </iframe>
-
-    <!-- OPTION B: Image (use this instead if needed) -->
-    <!-- <img src="/assets/images/demo.png" alt="demo"> -->
-  </div>
-
-  <div class="description">
-    <h3>Trajectory prediction using semi-adaptable neural network</h3>
-    <p>
-      Robots need to accurately predict human's future movement in order to safely plan its own motion trajectories and efficiently collaborate with humans. A semi-adaptable neural network for human motion prediction is proposed, and uncertainty bounds of the predictions are provided in real time. A neural network is trained offline to represent the human motion transition model, and then recursive least square parameter adaptation algorithm (RLS-PAA) is adopted for online parameter adaptation of the neural network and for uncertainty estimation. 
-    </p>
-  </div>
-
-</div>
-
-<div class="project-row-two">
-
-  <div class="media-group">
+  <div class="media-stack">
 
     <div class="media">
-      <!-- Video or image -->
-      <iframe src=(https://www.youtube.com/embed/wfle8Ry7z54)
+      <iframe src="https://www.youtube.com/embed/wfle8Ry7z54"
         frameborder="0"
         allowfullscreen>
       </iframe>
     </div>
 
     <div class="media">
-      <!-- Image or another video -->
       <img src="/images/system.png"  alt="demo">
     </div>
 
@@ -82,34 +38,6 @@ author_profile: true
 
 </div>
 
-<div class="project-row-two">
-
-  <div class="media-group">
-
-    <div class="media">
-      <!-- Video or image -->
-      <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-    </div>
-
-    <div class="media">
-      <!-- Image or another video -->
-      <img src="/images/adaptable_NN.png" alt="demo">
-    </div>
-
-  </div>
-
-  <div class="description">
-    <h3>Project Title</h3>
-    <p>
-      This project demonstrates adaptive robot behavior.
-      Left: baseline method. Right: our method.
-    </p>
-  </div>
-
-</div>
 
 ## Short-Term Human Trajectory Prediction Using Semi-adaptable Neural Network \[[pdf](https://ieeexplore.ieee.org/abstract/document/8814980)\]\[[video](https://www.youtube.com/watch?v=2dqS9r0xBGo)\]
 <p align="center">
