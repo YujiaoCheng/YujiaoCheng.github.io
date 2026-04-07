@@ -10,7 +10,7 @@ author_profile: true
 </p>
 
 
-<div class="project-row-1">
+<div class="project-row">
 
   <div class="media">
     <!-- OPTION A: YouTube video -->
@@ -32,7 +32,7 @@ author_profile: true
 
 </div>
 
-<div class="project-row-1">
+<div class="project-row">
 
   <div class="media">
     <!-- OPTION A: YouTube video -->
@@ -54,7 +54,7 @@ author_profile: true
 
 </div>
 
-<div class="project-row-2">
+<div class="project-row-two">
 
   <div class="media-group">
 
