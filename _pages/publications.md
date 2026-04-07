@@ -42,7 +42,7 @@ author_profile: true
 
 Changliu Liu\*, Te Tang\*, Hsien-Chung Lin\*, **Yujiao Cheng**\* and Masayoshi Tomizuka. "Serocs: Safe and efficient robot collaborative systems for next generation intelligent industrial co-robots." arXiv preprint arXiv:1809.08215 (2018).
 
-## Patents
+## Patents (assigned to FANUC)
 **P6.** "A natural robot programing and interaction system", 2025 (filed)
 
 **P5.** "Enhance anomaly score using a general image segmentation model", 2025 (filed)
