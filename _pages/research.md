@@ -16,6 +16,26 @@ frameborder="0"
 allowfullscreen>
 </iframe>
 
+<div class="video-text-container">
+  
+  <div class="video">
+    <iframe width="100%" height="315"
+      src="https://www.youtube.com/embed/4DlgnFjfwkY?start=11"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="text">
+    <h3>Robot Assembly Demo</h3>
+    <p>
+      This project demonstrates our VLM-based adaptive task planning system.
+      The robot can dynamically adjust actions based on visual feedback.
+    </p>
+  </div>
+
+</div>
+
 ## Human Plan Recognition via Hierarchical Modeling \[[pdf](https://ieeexplore.ieee.org/abstract/document/8990024)\] \[[video](https://www.youtube.com/watch?v=4DlgnFjfwkY)\] 
 <p align="center">
 <img src="/images/plan.png" width="700">
