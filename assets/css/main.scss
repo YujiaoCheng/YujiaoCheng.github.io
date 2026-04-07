@@ -237,3 +237,8 @@
 .masthead__menu-item--dropdown:hover > .masthead__dropdown {
   display: block;
 }
+
+.masthead__dropdown {
+  display: flex;
+  flex-direction: column !important;
+}
