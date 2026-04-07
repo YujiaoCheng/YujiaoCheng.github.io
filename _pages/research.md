@@ -16,8 +16,6 @@ frameborder="0"
 allowfullscreen>
 </iframe> -->
 
-
-
 <div class="project-row">
 
   <div class="media">
