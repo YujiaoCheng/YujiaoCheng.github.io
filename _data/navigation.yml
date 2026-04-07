@@ -12,6 +12,8 @@ main:
         url: /cobots/
       - title: "Physical AI"
         url: /physicalAI/
+      - title: "Anomaly detection"
+        url: /anomaly/
 
   - title: "Publications"
     url: /publications/
