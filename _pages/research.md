@@ -30,20 +30,36 @@ allowfullscreen>
   </div>
 
   <div class="description">
-    <h3>Project Title</h3>
+    <h3>High-level human-aware robot policy</h3>
     <p>
-      This project explores adaptive task planning using vision-language models.
-      The system can dynamically adjust to new environments.
+      This project explores collaborative robot's high-level policy. Due to the stochastic and time-varying nature of human collaborators, the robot needs to efficiently and accurately identify human intention. A hierachical modeling method is proposed to leverage the hierarchical relationship between subtasks and trajectories, which is data-efficient and intepretable. 
     </p>
   </div>
 
 </div>
 
-## Human Plan Recognition via Hierarchical Modeling \[[pdf](https://ieeexplore.ieee.org/abstract/document/8990024)\] \[[video](https://www.youtube.com/watch?v=4DlgnFjfwkY)\] 
-<p align="center">
-<img src="/images/plan.png" width="700">
-</p>
- To efficiently finish tasks in human-robot collaboration systems, the robots need to recognize human's intentions for a plan, i.e., the sequence of actions to finish the tasks. However, due to the stochastic and time-varying nature of human collaborators, it is quite challenging for the robot to efficiently and accurately identify such task plans. To address this challenge, we propose a hirarchical modeling method by explicitly leveraging the hierarchical relationship between plans and trajectories, which is data-efficient and intepretable. Physical experiments were conducted on an industrial robot to verify the proposed framework. The results show that the proposed framework could accurately recognize the human workers' plans and thus significantly improve the time efficiency of the human-robot collaboration.
+<div class="project-row">
+
+  <div class="media">
+    <!-- OPTION A: YouTube video -->
+    <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+
+    <!-- OPTION B: Image (use this instead if needed) -->
+    <!-- <img src="/assets/images/demo.png" alt="demo"> -->
+  </div>
+
+  <div class="description">
+    <h3>Trajectory prediction using semi-adaptable neural network</h3>
+    <p>
+      Robots need to accurately predict human's future movement in order to safely plan its own motion trajectories and efficiently collaborate with humans. A semi-adaptable neural network for human motion prediction is proposed, and uncertainty bounds of the predictions are provided in real time. A neural network is trained offline to represent the human motion transition model, and then recursive least square parameter adaptation algorithm (RLS-PAA) is adopted for online parameter adaptation of the neural network and for uncertainty estimation. 
+    </p>
+  </div>
+
+</div>
+
 
 ## Short-Term Human Trajectory Prediction Using Semi-adaptable Neural Network \[[pdf](https://ieeexplore.ieee.org/abstract/document/8814980)\]\[[video](https://www.youtube.com/watch?v=2dqS9r0xBGo)\]
 <p align="center">
