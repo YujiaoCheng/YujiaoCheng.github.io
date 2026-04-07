@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research_robotics
+permalink: /research
 author_profile: true
 ---
 
