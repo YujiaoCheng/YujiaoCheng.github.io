@@ -90,35 +90,7 @@ author_profile: true
       Human motion prediction is an important component to facilitate human robot interaction. Robots need to accurately predict human's future movement in order to safely plan its own motion trajectories and efficiently collaborate with humans. Many recent approaches predict human's movement using deep learning methods, such as recurrent neural networks. However, existing methods lack the ability to adapt to time-varying human behaviors, and many of them do not quantify uncertainties in the prediction. This paper proposes an approach that uses a semi-adaptable neural network for human motion prediction, and provides uncertainty bounds of the predictions in real time. In particular, a neural network is trained offline to represent the human motion transition model, and then recursive least square parameter adaptation algorithm (RLS-PAA) is adopted for online parameter adaptation of the neural network and for uncertainty estimation. Experiments on several human motion datasets verify that the proposed method significantly outperforms the state-of-the-art approach in terms of prediction accuracy and computation efficiency.
     </p>
   </div>
-
-</div>
-
-<hr class="divider">
-
-<div class="project-row">
-
-  <div class="media-stack">
-
-    <div class="media">
-      <iframe src="https://www.youtube.com/embed/wfle8Ry7z54"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-    </div>
-
-    <div class="media">
-      <img src="/images/system.png"  alt="demo">
-    </div>
-
-  </div>
-
-  <div class="description">
-    <h3>Human-Aware Task Planning</h3>
-    <p>
-      When robots work with humans for collaborative task, they need to plan their actions while taking humans' actions into account. However, due to the complexity of the tasks and stochastic nature of human collaborators, it is quite challenging for the robot to efficiently collaborate with the humans. To address this challenge, in this letter, we first propose an algorithm to automatically construct a hierarchical task model from single-agent demonstrations. The hierarchical task model explicitly captures the sequential and parallel relationships of the task at all levels of abstraction. We then propose an optimization-based planner, which exploits the parallel relationships and prioritizes actions that are parallel to the humans' actions. In such a way, potential spatial interfaces can be avoided, task completion time can be reduced, and human's satisfaction level can be improved. We conducted simulations of a robot arm collaborating with a human for several collaborative tasks. The comparison results with several baselines proved that our proposed planner is better in terms of efficiency, safety and human satisfaction.
-    </p>
-  </div>
-
+ 
 </div>
 
 <hr class="divider">
