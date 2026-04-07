@@ -16,7 +16,7 @@ frameborder="0"
 allowfullscreen>
 </iframe> -->
 
-</div>
+
 
 <div class="project-row">
 
