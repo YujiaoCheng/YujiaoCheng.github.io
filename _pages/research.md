@@ -54,6 +54,34 @@ author_profile: true
 
 </div>
 
+<div class="project-row-2">
+
+  <div class="media-group">
+
+    <div class="media">
+      <!-- Video or image -->
+      <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="media">
+      <!-- Image or another video -->
+      <img src="/images/adaptable_NN.png" alt="demo">
+    </div>
+
+  </div>
+
+  <div class="description">
+    <h3>Project Title</h3>
+    <p>
+      This project demonstrates adaptive robot behavior.
+      Left: baseline method. Right: our method.
+    </p>
+  </div>
+
+</div>
 
 ## Short-Term Human Trajectory Prediction Using Semi-adaptable Neural Network \[[pdf](https://ieeexplore.ieee.org/abstract/document/8814980)\]\[[video](https://www.youtube.com/watch?v=2dqS9r0xBGo)\]
 <p align="center">
