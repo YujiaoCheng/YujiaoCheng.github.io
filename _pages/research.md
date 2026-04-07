@@ -11,6 +11,7 @@ author_profile: true
 
 
 
+<hr class="divider">
 
 <div class="project-row">
 
@@ -28,8 +29,6 @@ author_profile: true
     </div>
 
   </div>
-  
-  <hr class="divider">
 
   <div class="description">
     <h3>Project Title</h3>
