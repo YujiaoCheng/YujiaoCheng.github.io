@@ -10,7 +10,7 @@ author_profile: true
 </p>
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/4DlgnFjfwkY"
+src="https://www.youtube.com/embed/4DlgnFjfwkY?start=11"
 title="demo"
 frameborder="0"
 allowfullscreen>
