@@ -92,7 +92,13 @@
 .media-group {
   display: flex;
   gap: 12px;
+  flex-wrap: nowrap;      /* 🔥 prevents wrapping */
   flex: none;
+}
+
+.media {
+  flex: 0 0 160px;        /* 🔥 fixed width, no shrinking */
+  aspect-ratio: 16 / 9;
 }
 
 /* each media block */
