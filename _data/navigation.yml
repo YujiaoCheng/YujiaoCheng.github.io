@@ -5,11 +5,13 @@ main:
     
   # - title: "Research"
   #   url: /research/
-  - title: "Research"
+  - title: "Projects"
     # url: /research/
     children:
       - title: "Collaborative robots"
         url: /cobots/
+      - title: "Physical AI"
+        url: /physicalAI/
 
   - title: "Publications"
     url: /publications/
