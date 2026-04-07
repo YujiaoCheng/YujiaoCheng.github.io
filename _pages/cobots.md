@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "collaborative robots"
+permalink: /cobots/
 author_profile: true
 ---
 
