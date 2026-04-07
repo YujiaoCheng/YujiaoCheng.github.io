@@ -227,3 +227,8 @@
 .masthead__menu-item--dropdown:focus-within > .masthead__dropdown {
   display: block;
 }
+
+.masthead__dropdown {
+  list-style-type: none;
+  padding-left: 0;
+}

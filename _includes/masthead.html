@@ -15,10 +15,38 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %} -->
-          {% for link in site.data.navigation.main %}
+          <!-- {% for link in site.data.navigation.main %}
             {% if link.children %}
               <li class="masthead__menu-item masthead__menu-item--dropdown">
                 <a href="#">{{ link.title }}</a>
+                <ul class="masthead__dropdown">
+                  {% for child in link.children %}
+                    {% if child.url contains 'http' %}
+                      {% assign child_domain = '' %}
+                    {% else %}
+                      {% assign child_domain = base_path %}
+                    {% endif %}
+                    <li>
+                      <a href="{{ child_domain }}{{ child.url }}">{{ child.title }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              {% if link.url contains 'http' %}
+                {% assign domain = '' %}
+              {% else %}
+                {% assign domain = base_path %}
+              {% endif %}
+              <li class="masthead__menu-item">
+                <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              </li>
+            {% endif %}
+          {% endfor %} -->
+          {% for link in site.data.navigation.main %}
+            {% if link.children %}
+              <li class="masthead__menu-item masthead__menu-item--dropdown">
+                <a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a>
                 <ul class="masthead__dropdown">
                   {% for child in link.children %}
                     {% if child.url contains 'http' %}

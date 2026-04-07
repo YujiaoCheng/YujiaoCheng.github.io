@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "collaborative robots"
+title: "Collaborative robots"
 permalink: /cobots/
 author_profile: true
 ---
