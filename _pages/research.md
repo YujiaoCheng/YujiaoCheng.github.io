@@ -93,18 +93,52 @@ author_profile: true
 
 </div>
 
-## Long-Term Human Trajectory Prediction Using Adaptable Sigma Lognormal Functions \[[pdf](https://ieeexplore.ieee.org/abstract/document/9599389)\]
-<p align="center">
-<img src="/images/lognormal.png" width="500">
-</p>
+<hr class="divider">
 
-In the framework of human-robot collaborative assembly, it is important to predict the long-term human hand trajectory for collision avoidance and to estimate the durations of the human actions for collaborative task planning. Many existing works predict long-term human trajectory by a preset time horizon, while in this paper, our prediction horizon depends on how far in the future we could predict the human's actions. To be more specific, we predict the human trajectory and estimate the durations for the human's current action and future actions. We propose to use the sigma-lognormal function to model and predict the human movement, and from this model we estimate the action durations. To accommodate different human behaviors, we also propose an online algorithm to adapt the movement model by using the observed trajectory, the human intentions and the scene layout.
-The effectiveness of the proposed framework is supported by experimental validations on the human trajectory data for conducting a computer assembly task. 
+<div class="project-row">
 
-## Human-Aware Task Planning \[[pdf](https://ieeexplore.ieee.org/abstract/document/9345470)\]\[[video](https://www.youtube.com/watch?v=wfle8Ry7z54)\]
-<p align="center">
-<img src="/images/taskPlanning.png" width="300">
-<img src="/images/system.png" width="500">
-</p>
+  <div class="media-stack">
 
-When robots work with humans for collaborative task, they need to plan their actions while taking humans' actions into account. However, due to the complexity of the tasks and stochastic nature of human collaborators, it is quite challenging for the robot to efficiently collaborate with the humans. To address this challenge, in this letter, we first propose an algorithm to automatically construct a hierarchical task model from single-agent demonstrations. The hierarchical task model explicitly captures the sequential and parallel relationships of the task at all levels of abstraction. We then propose an optimization-based planner, which exploits the parallel relationships and prioritizes actions that are parallel to the humans' actions. In such a way, potential spatial interfaces can be avoided, task completion time can be reduced, and human's satisfaction level can be improved. We conducted simulations of a robot arm collaborating with a human for several collaborative tasks. The comparison results with several baselines proved that our proposed planner is better in terms of efficiency, safety and human satisfaction.
+    <div class="media">
+      <iframe src="https://www.youtube.com/embed/wfle8Ry7z54"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="media">
+      <img src="/images/system.png"  alt="demo">
+    </div>
+
+  </div>
+
+  <div class="description">
+    <h3>Human-Aware Task Planning</h3>
+    <p>
+      When robots work with humans for collaborative task, they need to plan their actions while taking humans' actions into account. However, due to the complexity of the tasks and stochastic nature of human collaborators, it is quite challenging for the robot to efficiently collaborate with the humans. To address this challenge, in this letter, we first propose an algorithm to automatically construct a hierarchical task model from single-agent demonstrations. The hierarchical task model explicitly captures the sequential and parallel relationships of the task at all levels of abstraction. We then propose an optimization-based planner, which exploits the parallel relationships and prioritizes actions that are parallel to the humans' actions. In such a way, potential spatial interfaces can be avoided, task completion time can be reduced, and human's satisfaction level can be improved. We conducted simulations of a robot arm collaborating with a human for several collaborative tasks. The comparison results with several baselines proved that our proposed planner is better in terms of efficiency, safety and human satisfaction.
+    </p>
+  </div>
+
+</div>
+
+<hr class="divider">
+
+<div class="project-row">
+  <div class="media">
+    <img src="/images/lognormal.png"  alt="demo">
+  </div>
+
+
+  <div class="description">
+    <h3>Long-Term Human Trajectory Prediction Using Adaptable Sigma Lognormal Functions </h3>
+    <p>
+      In the framework of human-robot collaborative assembly, it is important to predict the long-term human hand trajectory for collision avoidance and to estimate the durations of the human actions for collaborative task planning. Many existing works predict long-term human trajectory by a preset time horizon, while in this paper, our prediction horizon depends on how far in the future we could predict the human's actions. To be more specific, we predict the human trajectory and estimate the durations for the human's current action and future actions. We propose to use the sigma-lognormal function to model and predict the human movement, and from this model we estimate the action durations. To accommodate different human behaviors, we also propose an online algorithm to adapt the movement model by using the observed trajectory, the human intentions and the scene layout.
+      The effectiveness of the proposed framework is supported by experimental validations on the human trajectory data for conducting a computer assembly task. 
+    </p>
+  </div>
+
+</div>
+
+
+
+
