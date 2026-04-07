@@ -5,16 +5,14 @@ main:
     
   - title: "Research"
     url: /research/
-    children:
-      - title: "Robot Assembly"
-        url: /research_robotics/
-      - title: "VLM Task Planning"
-        url: /research_inspection/
+    # children:
+    #   - title: "Robot Assembly"
+    #     url: /research_robotics/
+    #   - title: "VLM Task Planning"
+    #     url: /research_inspection/
 
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
+  
     
  
