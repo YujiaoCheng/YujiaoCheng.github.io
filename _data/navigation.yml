@@ -10,8 +10,8 @@ main:
     children:
       - title: "Collaborative robots"
         url: /cobots/
-      - title: "Physical AI"
-        url: /physicalAI/
+      # - title: "Physical AI"
+      #   url: /physicalAI/
       - title: "Anomaly detection"
         url: /anomaly/
 
