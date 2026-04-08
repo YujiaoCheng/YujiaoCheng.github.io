@@ -40,8 +40,6 @@ Demo video by FANUC published on YouTube. Used for non-commercial portfolio purp
 
     <!-- Video -->
     <iframe 
-      width="100%" 
-      height="250"
       src="https://www.youtube.com/embed/Y6AysCVPQDA?start=283"
       frameborder="0"
       allowfullscreen>
@@ -49,7 +47,7 @@ Demo video by FANUC published on YouTube. Used for non-commercial portfolio purp
 
     <!-- Text below video -->
     <p style="font-size: 14px; color: gray; margin-top: 8px;">
-      Demo video courtesy of Company
+      Demo video courtesy of Company. Used for non-commercial portfolio purposes. All intellectual property belongs to the company. 
     </p>
 
   </div>
