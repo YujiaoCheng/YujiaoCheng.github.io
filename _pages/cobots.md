@@ -4,7 +4,7 @@ title: "Collaborative robots"
 permalink: /cobots/
 author_profile: true
 ---
-
+I designed and implemented a full-stack robotic system that integrates task planning, motion planning, perception, and low-level control for real-world deployment. The system facilitates safe and efficient human–robot collaboration through human intent inference and trajectory prediction, enabling intelligent and adaptive coordination.
 <p align="center">
 <img src="/images/robotSystem.png" width="500">
 </p>
@@ -44,6 +44,34 @@ author_profile: true
   <div class="media-stack">
 
     <div class="media">
+      <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="media">
+      <img src="/images/adaptable_NN.png"  alt="demo">
+    </div>
+
+  </div>
+
+  <div class="description">
+    <h3>Short-Term Human Trajectory Prediction Using Semi-adaptable Neural Network</h3>
+    <p>
+      Human motion prediction is an important component to facilitate human robot interaction. Robots need to accurately predict human's future movement in order to safely plan its own motion trajectories and efficiently collaborate with humans. Many recent approaches predict human's movement using deep learning methods, such as recurrent neural networks. However, existing methods lack the ability to adapt to time-varying human behaviors, and many of them do not quantify uncertainties in the prediction. This paper proposes an approach that uses a semi-adaptable neural network for human motion prediction, and provides uncertainty bounds of the predictions in real time. In particular, a neural network is trained offline to represent the human motion transition model, and then recursive least square parameter adaptation algorithm (RLS-PAA) is adopted for online parameter adaptation of the neural network and for uncertainty estimation. Experiments on several human motion datasets verify that the proposed method significantly outperforms the state-of-the-art approach in terms of prediction accuracy and computation efficiency.
+    </p>
+  </div>
+ 
+</div>
+
+<hr class="divider">
+
+<div class="project-row">
+
+  <div class="media-stack">
+
+    <div class="media">
       <iframe src="https://www.youtube.com/embed/wfle8Ry7z54"
         frameborder="0"
         allowfullscreen>
@@ -67,33 +95,6 @@ author_profile: true
 
 <hr class="divider">
 
-<div class="project-row">
-
-  <div class="media-stack">
-
-    <div class="media">
-      <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-    </div>
-
-    <div class="media">
-      <img src="/images/adaptable_NN.png"  alt="demo">
-    </div>
-
-  </div>
-
-  <div class="description">
-    <h3>Short-Term Human Trajectory Prediction Using Semi-adaptable Neural Network</h3>
-    <p>
-      Human motion prediction is an important component to facilitate human robot interaction. Robots need to accurately predict human's future movement in order to safely plan its own motion trajectories and efficiently collaborate with humans. Many recent approaches predict human's movement using deep learning methods, such as recurrent neural networks. However, existing methods lack the ability to adapt to time-varying human behaviors, and many of them do not quantify uncertainties in the prediction. This paper proposes an approach that uses a semi-adaptable neural network for human motion prediction, and provides uncertainty bounds of the predictions in real time. In particular, a neural network is trained offline to represent the human motion transition model, and then recursive least square parameter adaptation algorithm (RLS-PAA) is adopted for online parameter adaptation of the neural network and for uncertainty estimation. Experiments on several human motion datasets verify that the proposed method significantly outperforms the state-of-the-art approach in terms of prediction accuracy and computation efficiency.
-    </p>
-  </div>
- 
-</div>
-
-<hr class="divider">
 
 <div class="project-row">
   <div class="media">
