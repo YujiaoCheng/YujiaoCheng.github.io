@@ -31,7 +31,7 @@ I designed and implemented a full-stack robotic system that integrates task plan
   <div class="description">
     <h3>Human Plan Recognition</h3>
     <p>
-      A collaborative robot’s high-level policy should align with human intent. To achieve this, we first learn object-centric action representations, and then classify action trajectories to infer the human’s underlying plan. Motion types are learned via an LSTM-based sequence model, object categories are inferred through learned visual perception, and trajectory similarity is captured using dynamic time warping to classify action patterns and infer intent.
+      A collaborative robot’s high-level policy should align with human intent. To achieve this, we first learn object-centric action representations, and then classify action trajectories to infer the human’s underlying plan. Motion types are learned via an LSTM-based sequence model, object categories are inferred through learned visual perception, and action trajectory similarity is captured using dynamic time warping to classify action patterns and infer intent.
     </p>
   </div>
 
