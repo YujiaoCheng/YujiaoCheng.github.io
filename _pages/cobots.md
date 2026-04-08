@@ -44,34 +44,6 @@ I designed and implemented a full-stack robotic system that integrates task plan
   <div class="media-stack">
 
     <div class="media">
-      <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-    </div>
-
-    <div class="media">
-      <img src="/images/adaptable_NN.png"  alt="demo">
-    </div>
-
-  </div>
-
-  <div class="description">
-    <h3>Online Learning Neural Network for Short-term Trajectory Prediction</h3>
-    <p>
-      Robots must accurately predict human motion to safely plan their own trajectories and enable efficient collaboration. We propose a semi-adaptive neural network for human motion prediction that provides real-time uncertainty estimates. Recursive Least Squares Parameter Adaptation (RLS-PAA) is employed for online parameter adaptation and uncertainty quantification.
-    </p>
-  </div>
- 
-</div>
-
-<hr class="divider">
-
-<div class="project-row">
-
-  <div class="media-stack">
-
-    <div class="media">
       <iframe src="https://www.youtube.com/embed/wfle8Ry7z54"
         frameborder="0"
         allowfullscreen>
@@ -93,6 +65,34 @@ I designed and implemented a full-stack robotic system that integrates task plan
 
 </div>
 
+
+<hr class="divider">
+
+<div class="project-row">
+
+  <div class="media-stack">
+
+    <div class="media">
+      <iframe src="https://www.youtube.com/embed/2dqS9r0xBGo?start=15"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="media">
+      <img src="/images/adaptable_NN.png"  alt="demo">
+    </div>
+
+  </div>
+
+  <div class="description">
+    <h3>Online Learning Neural Network for Short-term Trajectory Prediction</h3>
+    <p>
+      Robots must accurately predict human motion to safely plan their own trajectories and enable efficient collaboration. We propose a semi-adaptive neural network for human motion prediction that provides real-time uncertainty estimates. Recursive Least Squares Parameter Adaptation (RLS-PAA) is employed for online parameter adaptation and uncertainty quantification.
+    </p>
+  </div>
+ 
+</div>
 <hr class="divider">
 
 
@@ -105,7 +105,7 @@ I designed and implemented a full-stack robotic system that integrates task plan
   <div class="description">
     <h3>Long-Term Human Trajectory Prediction Using Adaptable Sigma Lognormal Functions </h3>
     <p>
-      Unlike prior works with fixed prediction horizons, we define an action-dependent horizon conditioned on the predictability of future human behavior. We jointly predict human motion and estimate the durations of ongoing and future actions using a sigma-lognormal model, which compactly represents velocity profiles and enables analytic duration inference. To capture behavioral variability, we incorporate an online adaptation scheme that updates model parameters from streaming observations, inferred human intent, and scene context.
+      Unlike prior work with fixed prediction horizons, we define an action-dependent horizon conditioned on the predictability of future human behavior. We jointly predict human motion and estimate the durations of ongoing and future actions using a sigma-lognormal model, which compactly represents velocity profiles and enables analytic duration inference. To capture behavioral variability, we incorporate an online adaptation scheme that updates model parameters from streaming observations, inferred human intent, and scene context.
     </p>
   </div>
 
