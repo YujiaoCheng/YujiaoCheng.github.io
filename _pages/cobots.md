@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Collaborative robots"
+title: "Collaborative Robots"
 permalink: /cobots/
 author_profile: true
 ---
@@ -29,9 +29,9 @@ I designed and implemented a full-stack robotic system that integrates task plan
   </div>
 
   <div class="description">
-    <h3>Project Title</h3>
+    <h3>Human Plan Recognition</h3>
     <p>
-      plan recognition for cobots
+      A collaborative robot’s high-level policy should align with human intent. To achieve this, we first learn object-centric action representations, and then classify action trajectories to infer the human’s underlying plan. Motion types are learned via an LSTM-based sequence model, object categories are inferred through learned visual perception, and trajectory similarity is captured using dynamic time warping to classify action patterns and infer intent.
     </p>
   </div>
 
@@ -57,9 +57,9 @@ I designed and implemented a full-stack robotic system that integrates task plan
   </div>
 
   <div class="description">
-    <h3>Short-Term Human Trajectory Prediction Using Semi-adaptable Neural Network</h3>
+    <h3>Online Learning Neural Network for Short-term Trajectory Prediction</h3>
     <p>
-      Human motion prediction is an important component to facilitate human robot interaction. Robots need to accurately predict human's future movement in order to safely plan its own motion trajectories and efficiently collaborate with humans. Many recent approaches predict human's movement using deep learning methods, such as recurrent neural networks. However, existing methods lack the ability to adapt to time-varying human behaviors, and many of them do not quantify uncertainties in the prediction. This paper proposes an approach that uses a semi-adaptable neural network for human motion prediction, and provides uncertainty bounds of the predictions in real time. In particular, a neural network is trained offline to represent the human motion transition model, and then recursive least square parameter adaptation algorithm (RLS-PAA) is adopted for online parameter adaptation of the neural network and for uncertainty estimation. Experiments on several human motion datasets verify that the proposed method significantly outperforms the state-of-the-art approach in terms of prediction accuracy and computation efficiency.
+      Robots must accurately predict human motion to safely plan their own trajectories and enable efficient collaboration. We propose a semi-adaptive neural network for human motion prediction that provides real-time uncertainty estimates. Recursive Least Squares Parameter Adaptation (RLS-PAA) is employed for online parameter adaptation and uncertainty quantification.
     </p>
   </div>
  
