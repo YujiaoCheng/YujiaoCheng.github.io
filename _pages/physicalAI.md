@@ -33,7 +33,7 @@ Demo video by FANUC published on YouTube. Used for non-commercial portfolio purp
 
 </div> -->
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="display: flex; gap: 20px; align-items: center;">
 
   <!-- LEFT: video + text BELOW -->
   <div style="flex: 1;">
