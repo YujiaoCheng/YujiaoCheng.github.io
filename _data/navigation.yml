@@ -8,7 +8,7 @@ main:
   - title: "Projects"
     # url: /research/
     children:
-      - title: "Collaborative robots"
+      - title: "Collaborative Robots"
         url: /cobots/
       # - title: "Physical AI"
       #   url: /physicalAI/
