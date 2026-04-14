@@ -7,85 +7,30 @@ author_profile: true
 
 I research on anomaly detection of multimodal (time-series + vision) data, leveraging reconstruction, GMM/generative models, feature learning, segmentation, and margin-based learning.
 
-<div style="max-width: 900px; margin: auto;">
+<div class="figure-grid-2rows">
+  <a href="https://patents.google.com/patent/US20260044951A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" class="figure-card">
+    <img src="/assets/images/margin.png" alt="Figure 1">
+    <p>Figure 1</p>
+  </a>
 
-  <div style="
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-  ">
+  <a href="https://yujiaocheng.github.io/publications/ target="_blank" class="figure-card">
+    <img src="/assets/images/ar.png" alt="Figure 2">
+    <p>Figure 2</p>
+  </a>
 
-    <!-- Item 1 -->
-    <a href="https://patents.google.com/patent/US20260044951A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" style="text-decoration: none;">
-      <div style="position: relative; overflow: hidden;">
+  <a href="https://patents.google.com/patent/DE102025128669A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" class="figure-card">
+    <img src="/assets/images/GMM.png" alt="Figure 3">
+    <p>Figure 3</p>
+  </a>
 
-        <img src="/assets/images/margin.png"
-             style="
-               width: 100%;
-               height: 200px;
-               object-fit: contain;
-               transition: transform 0.3s ease;
-             "
-             onmouseover="this.style.transform='scale(1.05)'"
-             onmouseout="this.style.transform='scale(1)'">
+  <a href="https://patents.google.com/patent/DE102025109319A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" class="figure-card">
+    <img src="/assets/images/encoder.png" alt="Figure 4">
+    <p>Figure 4</p>
+  </a>
 
-        <!-- Overlay text -->
-        <div style="
-          position: absolute;
-          bottom: 0;
-          left: 0;
-          width: 100%;
-          background: rgba(0,0,0,0.6);
-          color: white;
-          text-align: center;
-          padding: 6px;
-          font-size: 14px;
-        ">
-          Patent 1
-        </div>
-
-      </div>
-    </a>
-
-    <!-- Item 2 -->
-    <a href="https://yujiaocheng.github.io/publications/" target="_blank" style="text-decoration: none;">
-      <div style="position: relative; overflow: hidden;">
-        <img src="/assets/images/ar.png"
-             style="width:100%; height:200px; object-fit:contain; transition: transform 0.3s ease;"
-             onmouseover="this.style.transform='scale(1.05)'"
-             onmouseout="this.style.transform='scale(1)'">
-        <div style="position:absolute; bottom:0; width:100%; background:rgba(0,0,0,0.6); color:white; text-align:center; padding:6px;">
-          Patent 2
-        </div>
-      </div>
-    </a>
-
-    <!-- Item 3 -->
-    <a href="https://patents.google.com/patent/DE102025128669A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" style="text-decoration: none;">
-      <div style="position: relative; overflow: hidden;">
-        <img src="/assets/images/GMM.png"
-             style="width:100%; height:200px; object-fit:contain; transition: transform 0.3s ease;"
-             onmouseover="this.style.transform='scale(1.05)'"
-             onmouseout="this.style.transform='scale(1)'">
-        <div style="position:absolute; bottom:0; width:100%; background:rgba(0,0,0,0.6); color:white; text-align:center; padding:6px;">
-          Patent 3
-        </div>
-      </div>
-    </a>
-
-    <!-- Item 4 -->
-    <a href="https://patents.google.com/patent/DE102025109319A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" style="text-decoration: none;">
-      <div style="position: relative; overflow: hidden;">
-        <img src="/assets/images/encoder.png"
-             style="width:100%; height:200px; object-fit:contain; transition: transform 0.3s ease;"
-             onmouseover="this.style.transform='scale(1.05)'"
-             onmouseout="this.style.transform='scale(1)'">
-        <div style="position:absolute; bottom:0; width:100%; background:rgba(0,0,0,0.6); color:white; text-align:center; padding:6px;">
-          Patent 4
-        </div>
-      </div>
-    </a>
-
-  </div>
-
+  <a href="https://your-url-5.com" target="_blank" class="figure-card">
+    <img src="/assets/images/figure5.jpg" alt="Figure 5">
+    <p>Figure 5</p>
+  </a>
 </div>
+
