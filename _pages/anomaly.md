@@ -13,7 +13,7 @@ I research on anomaly detection of multimodal (time-series + vision) data, lever
     <p>Figure 1</p>
   </a>
 
-  <a href="https://yujiaocheng.github.io/publications/ target="_blank" class="figure-card">
+  <a href="https://yujiaocheng.github.io/publications/" target="_blank" class="figure-card">
     <img src="/assets/images/ar.png" alt="Figure 2">
     <p>Figure 2</p>
   </a>
