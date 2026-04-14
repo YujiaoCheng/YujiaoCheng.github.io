@@ -24,8 +24,8 @@ I research on anomaly detection of multimodal (time-series + vision) data, lever
     <img src="/assets/images/encoder.png" alt="Figure 4">
   </a>
 
-  <a href="https://your-url-5.com" target="_blank" class="figure-card">
-    <img src="/assets/images/figure5.jpg" alt="Figure 5">
+  <a href="https://yujiaocheng.github.io/publications/" target="_blank" class="figure-card">
+    <img src="/assets/images/segment.png" alt="Figure 5">
   </a>
 </div>
 
