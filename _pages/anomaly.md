@@ -9,23 +9,23 @@ I research on anomaly detection of multimodal (time-series + vision) data, lever
 
 <div class="figure-grid-2rows">
   <a href="https://patents.google.com/patent/US20260044951A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" class="figure-card">
-    <img src="/assets/images/margin.png" alt="Figure 1">
+    <img src="/images/margin.png" alt="Figure 1">
   </a>
 
   <a href="https://yujiaocheng.github.io/publications/" target="_blank" class="figure-card">
-    <img src="/assets/images/ar.png" alt="Figure 2">
+    <img src="/images/ar.png" alt="Figure 2">
   </a>
 
   <a href="https://patents.google.com/patent/DE102025128669A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" class="figure-card">
-    <img src="/assets/images/GMM.png" alt="Figure 3">
+    <img src="/images/GMM.png" alt="Figure 3">
   </a>
 
   <a href="https://patents.google.com/patent/DE102025109319A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" class="figure-card">
-    <img src="/assets/images/encoder.png" alt="Figure 4">
+    <img src="/images/encoder.png" alt="Figure 4">
   </a>
 
   <a href="https://yujiaocheng.github.io/publications/" target="_blank" class="figure-card">
-    <img src="/assets/images/segment.png" alt="Figure 5">
+    <img src="/images/segment.png" alt="Figure 5">
   </a>
 </div>
 
