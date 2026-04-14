@@ -12,7 +12,7 @@ main:
         url: /cobots/
       # - title: "Physical AI"
       #   url: /physicalAI/
-      - title: "Anomaly detection"
+      - title: "Anomaly Detection"
         url: /anomaly/
 
   - title: "Publications"
