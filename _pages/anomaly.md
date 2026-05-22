@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Anomaly Detection"
+title: "Robot Anomaly Detection"
 permalink: /anomaly/
 author_profile: true
 ---
 
-I research on anomaly detection of multimodal (time-series + vision) data, leveraging reconstruction, GMM/generative models, feature learning, segmentation, and margin-based learning.
+I research on anomaly detection of robot in terms of mechanical failures and product quality using multimodal (time-series + vision) data, leveraging reconstruction-based networks, GMM/generative models, kNN, feature learning, segmentation, and margin-based learning, etc..
 
 <div class="figure-grid-2rows">
   <a href="https://patents.google.com/patent/US20260044951A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" class="figure-card">
