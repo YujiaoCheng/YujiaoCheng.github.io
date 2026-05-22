@@ -34,4 +34,4 @@ Demo video by FANUC published on YouTube. Used for non-commercial portfolio purp
 </div> -->
 
 - [Robot Programming by Voice with Generative AI](https://www.youtube.com/embed/Y6AysCVPQDA?start=283)
-
+- Dexterous Manipulation with VLA-RL
