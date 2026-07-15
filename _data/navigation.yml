@@ -5,7 +5,7 @@ main:
     
   # - title: "Research"
   #   url: /research/
-  - title: "Projects"
+  - title: "Selected Projects"
     # url: /research/
     children:
       - title: "Collaborative Robots"
