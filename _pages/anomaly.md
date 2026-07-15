@@ -5,7 +5,7 @@ permalink: /anomaly/
 author_profile: true
 ---
 
-I research on anomaly detection of robot in terms of mechanical failures and product quality using multimodal (time-series + vision) data, leveraging reconstruction-based networks, GMM/generative models, kNN, feature learning, segmentation, and margin-based learning, etc..
+I researched on machine learning algorithms for robot health monitoring and manufacturing quality inspection, including detection of harmonic-drive failures, bearing wear, lubricant leakage, and surface defects in robot-manufactured products. I designed anomaly detection methods using image-patch representations, encoder-decoder networks, vision foundation models, learned feature weighting, Gaussian Mixture Models, and autoregressive time-series modeling. 
 
 <div class="figure-grid-2rows">
   <a href="https://patents.google.com/patent/US20260044951A1/en?inventor=Yujiao+Cheng&oq=Yujiao+Cheng" target="_blank" class="figure-card">
